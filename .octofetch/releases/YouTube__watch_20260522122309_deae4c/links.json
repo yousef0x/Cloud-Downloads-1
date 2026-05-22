@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5092",
+  "folder": "YouTube__watch_20260522122309_deae4c",
+  "base_name": "SNI_Spoofing_vpn_40QT-JiyhrI_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/yousef0x/Cloud-Downloads-1/releases/tag/co-releases-v1-5092",
+  "files": [
+    {
+      "name": "SNI_Spoofing_vpn_40QT-JiyhrI_1080p.mp4",
+      "url": "https://github.com/yousef0x/Cloud-Downloads-1/releases/download/co-releases-v1-5092/SNI_Spoofing_vpn_40QT-JiyhrI_1080p.mp4",
+      "api_url": "https://api.github.com/repos/yousef0x/Cloud-Downloads-1/releases/assets/427060463",
+      "id": 427060463,
+      "size": 111725860,
+      "download_count": 0
+    }
+  ]
+}
